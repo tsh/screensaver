@@ -1,0 +1,2 @@
+Panda3D==1.10.14
+panda3d-gltf==1.2.1
